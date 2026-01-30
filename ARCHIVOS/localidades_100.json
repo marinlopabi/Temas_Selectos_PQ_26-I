@@ -1,0 +1,502 @@
+{
+  "localidade 1": {
+    "Continente": "Ásia",
+    "País": "Índia",
+    "Capital": "Nova Deli"
+  },
+  "localidade 2": {
+    "Continente": "Ásia",
+    "País": "Japão",
+    "Capital": "Tóquio"
+  },
+  "localidade 3": {
+    "Continente": "América Central",
+    "País": "Guatemala",
+    "Capital": "Cidade da Guatemala"
+  },
+  "localidade 4": {
+    "Continente": "Europa",
+    "País": "Reino Unido",
+    "Capital": "Londres"
+  },
+  "localidade 5": {
+    "Continente": "Europa",
+    "País": "Reino Unido",
+    "Capital": "Londres"
+  },
+  "localidade 6": {
+    "Continente": "África",
+    "País": "Nigéria",
+    "Capital": "Abuja"
+  },
+  "localidade 7": {
+    "Continente": "Europa",
+    "País": "Itália",
+    "Capital": "Roma"
+  },
+  "localidade 8": {
+    "Continente": "América do Norte",
+    "País": "Estados Unidos",
+    "Capital": "Washington DC"
+  },
+  "localidade 9": {
+    "Continente": "Oceania",
+    "País": "Nova Zelândia",
+    "Capital": "Wellington"
+  },
+  "localidade 10": {
+    "Continente": "América do Norte",
+    "País": "Estados Unidos",
+    "Capital": "Washington DC"
+  },
+  "localidade 11": {
+    "Continente": "América Central",
+    "País": "México",
+    "Capital": "Cidade do México"
+  },
+  "localidade 12": {
+    "Continente": "América do Sul",
+    "País": "Colômbia",
+    "Capital": "Bogotá"
+  },
+  "localidade 13": {
+    "Continente": "Europa",
+    "País": "Itália",
+    "Capital": "Roma"
+  },
+  "localidade 14": {
+    "Continente": "Europa",
+    "País": "Itália",
+    "Capital": "Roma"
+  },
+  "localidade 15": {
+    "Continente": "América do Sul",
+    "País": "Colômbia",
+    "Capital": "Bogotá"
+  },
+  "localidade 16": {
+    "Continente": "África",
+    "País": "Nigéria",
+    "Capital": "Abuja"
+  },
+  "localidade 17": {
+    "Continente": "América do Norte",
+    "País": "Canadá",
+    "Capital": "Ottawa"
+  },
+  "localidade 18": {
+    "Continente": "Europa",
+    "País": "Alemanha",
+    "Capital": "Berlim"
+  },
+  "localidade 19": {
+    "Continente": "América do Norte",
+    "País": "Canadá",
+    "Capital": "Ottawa"
+  },
+  "localidade 20": {
+    "Continente": "Oceania",
+    "País": "Austrália",
+    "Capital": "Camberra"
+  },
+  "localidade 21": {
+    "Continente": "América do Sul",
+    "País": "Colômbia",
+    "Capital": "Bogotá"
+  },
+  "localidade 22": {
+    "Continente": "América do Norte",
+    "País": "Canadá",
+    "Capital": "Ottawa"
+  },
+  "localidade 23": {
+    "Continente": "África",
+    "País": "Egito",
+    "Capital": "Cairo"
+  },
+  "localidade 24": {
+    "Continente": "Ásia",
+    "País": "Japão",
+    "Capital": "Tóquio"
+  },
+  "localidade 25": {
+    "Continente": "América do Norte",
+    "País": "Estados Unidos",
+    "Capital": "Washington DC"
+  },
+  "localidade 26": {
+    "Continente": "Europa",
+    "País": "Espanha",
+    "Capital": "Madri"
+  },
+  "localidade 27": {
+    "Continente": "América do Norte",
+    "País": "Estados Unidos",
+    "Capital": "Washington DC"
+  },
+  "localidade 28": {
+    "Continente": "América Central",
+    "País": "Guatemala",
+    "Capital": "Cidade da Guatemala"
+  },
+  "localidade 29": {
+    "Continente": "América do Sul",
+    "País": "Colômbia",
+    "Capital": "Bogotá"
+  },
+  "localidade 30": {
+    "Continente": "África",
+    "País": "Nigéria",
+    "Capital": "Abuja"
+  },
+  "localidade 31": {
+    "Continente": "África",
+    "País": "Nigéria",
+    "Capital": "Abuja"
+  },
+  "localidade 32": {
+    "Continente": "Oceania",
+    "País": "Nova Zelândia",
+    "Capital": "Wellington"
+  },
+  "localidade 33": {
+    "Continente": "Europa",
+    "País": "Alemanha",
+    "Capital": "Berlim"
+  },
+  "localidade 34": {
+    "Continente": "América do Sul",
+    "País": "Argentina",
+    "Capital": "Buenos Aires"
+  },
+  "localidade 35": {
+    "Continente": "América do Norte",
+    "País": "Estados Unidos",
+    "Capital": "Washington DC"
+  },
+  "localidade 36": {
+    "Continente": "África",
+    "País": "Angola",
+    "Capital": "Luanda"
+  },
+  "localidade 37": {
+    "Continente": "América do Norte",
+    "País": "Estados Unidos",
+    "Capital": "Washington DC"
+  },
+  "localidade 38": {
+    "Continente": "Ásia",
+    "País": "Japão",
+    "Capital": "Tóquio"
+  },
+  "localidade 39": {
+    "Continente": "Europa",
+    "País": "Alemanha",
+    "Capital": "Berlim"
+  },
+  "localidade 40": {
+    "Continente": "Europa",
+    "País": "Alemanha",
+    "Capital": "Berlim"
+  },
+  "localidade 41": {
+    "Continente": "América do Sul",
+    "País": "Argentina",
+    "Capital": "Buenos Aires"
+  },
+  "localidade 42": {
+    "Continente": "América do Norte",
+    "País": "Estados Unidos",
+    "Capital": "Washington DC"
+  },
+  "localidade 43": {
+    "Continente": "América do Norte",
+    "País": "Estados Unidos",
+    "Capital": "Washington DC"
+  },
+  "localidade 44": {
+    "Continente": "Europa",
+    "País": "Reino Unido",
+    "Capital": "Londres"
+  },
+  "localidade 45": {
+    "Continente": "Ásia",
+    "País": "China",
+    "Capital": "Pequim"
+  },
+  "localidade 46": {
+    "Continente": "América do Sul",
+    "País": "Argentina",
+    "Capital": "Buenos Aires"
+  },
+  "localidade 47": {
+    "Continente": "Ásia",
+    "País": "Japão",
+    "Capital": "Tóquio"
+  },
+  "localidade 48": {
+    "Continente": "África",
+    "País": "Nigéria",
+    "Capital": "Abuja"
+  },
+  "localidade 49": {
+    "Continente": "Oceania",
+    "País": "Austrália",
+    "Capital": "Camberra"
+  },
+  "localidade 50": {
+    "Continente": "Ásia",
+    "País": "Índia",
+    "Capital": "Nova Deli"
+  },
+  "localidade 51": {
+    "Continente": "África",
+    "País": "Nigéria",
+    "Capital": "Abuja"
+  },
+  "localidade 52": {
+    "Continente": "América do Sul",
+    "País": "Argentina",
+    "Capital": "Buenos Aires"
+  },
+  "localidade 53": {
+    "Continente": "Oceania",
+    "País": "Nova Zelândia",
+    "Capital": "Wellington"
+  },
+  "localidade 54": {
+    "Continente": "Oceania",
+    "País": "Nova Zelândia",
+    "Capital": "Wellington"
+  },
+  "localidade 55": {
+    "Continente": "Europa",
+    "País": "França",
+    "Capital": "Paris"
+  },
+  "localidade 56": {
+    "Continente": "Europa",
+    "País": "Itália",
+    "Capital": "Roma"
+  },
+  "localidade 57": {
+    "Continente": "África",
+    "País": "Angola",
+    "Capital": "Luanda"
+  },
+  "localidade 58": {
+    "Continente": "Europa",
+    "País": "Alemanha",
+    "Capital": "Berlim"
+  },
+  "localidade 59": {
+    "Continente": "América Central",
+    "País": "Guatemala",
+    "Capital": "Cidade da Guatemala"
+  },
+  "localidade 60": {
+    "Continente": "Oceania",
+    "País": "Austrália",
+    "Capital": "Camberra"
+  },
+  "localidade 61": {
+    "Continente": "África",
+    "País": "Angola",
+    "Capital": "Luanda"
+  },
+  "localidade 62": {
+    "Continente": "Oceania",
+    "País": "Austrália",
+    "Capital": "Camberra"
+  },
+  "localidade 63": {
+    "Continente": "América do Sul",
+    "País": "Argentina",
+    "Capital": "Buenos Aires"
+  },
+  "localidade 64": {
+    "Continente": "América do Norte",
+    "País": "Estados Unidos",
+    "Capital": "Washington DC"
+  },
+  "localidade 65": {
+    "Continente": "Europa",
+    "País": "Espanha",
+    "Capital": "Madri"
+  },
+  "localidade 66": {
+    "Continente": "América do Norte",
+    "País": "Canadá",
+    "Capital": "Ottawa"
+  },
+  "localidade 67": {
+    "Continente": "Europa",
+    "País": "Reino Unido",
+    "Capital": "Londres"
+  },
+  "localidade 68": {
+    "Continente": "África",
+    "País": "Angola",
+    "Capital": "Luanda"
+  },
+  "localidade 69": {
+    "Continente": "Europa",
+    "País": "Espanha",
+    "Capital": "Madri"
+  },
+  "localidade 70": {
+    "Continente": "África",
+    "País": "Nigéria",
+    "Capital": "Abuja"
+  },
+  "localidade 71": {
+    "Continente": "Oceania",
+    "País": "Nova Zelândia",
+    "Capital": "Wellington"
+  },
+  "localidade 72": {
+    "Continente": "América Central",
+    "País": "México",
+    "Capital": "Cidade do México"
+  },
+  "localidade 73": {
+    "Continente": "América do Sul",
+    "País": "Colômbia",
+    "Capital": "Bogotá"
+  },
+  "localidade 74": {
+    "Continente": "Europa",
+    "País": "Reino Unido",
+    "Capital": "Londres"
+  },
+  "localidade 75": {
+    "Continente": "América Central",
+    "País": "Guatemala",
+    "Capital": "Cidade da Guatemala"
+  },
+  "localidade 76": {
+    "Continente": "América Central",
+    "País": "México",
+    "Capital": "Cidade do México"
+  },
+  "localidade 77": {
+    "Continente": "Ásia",
+    "País": "Japão",
+    "Capital": "Tóquio"
+  },
+  "localidade 78": {
+    "Continente": "Europa",
+    "País": "França",
+    "Capital": "Paris"
+  },
+  "localidade 79": {
+    "Continente": "Europa",
+    "País": "Itália",
+    "Capital": "Roma"
+  },
+  "localidade 80": {
+    "Continente": "África",
+    "País": "Nigéria",
+    "Capital": "Abuja"
+  },
+  "localidade 81": {
+    "Continente": "América do Norte",
+    "País": "Canadá",
+    "Capital": "Ottawa"
+  },
+  "localidade 82": {
+    "Continente": "Europa",
+    "País": "Espanha",
+    "Capital": "Madri"
+  },
+  "localidade 83": {
+    "Continente": "América do Norte",
+    "País": "Estados Unidos",
+    "Capital": "Washington DC"
+  },
+  "localidade 84": {
+    "Continente": "Europa",
+    "País": "Espanha",
+    "Capital": "Madri"
+  },
+  "localidade 85": {
+    "Continente": "América do Norte",
+    "País": "Estados Unidos",
+    "Capital": "Washington DC"
+  },
+  "localidade 86": {
+    "Continente": "Europa",
+    "País": "Reino Unido",
+    "Capital": "Londres"
+  },
+  "localidade 87": {
+    "Continente": "África",
+    "País": "Egito",
+    "Capital": "Cairo"
+  },
+  "localidade 88": {
+    "Continente": "África",
+    "País": "Egito",
+    "Capital": "Cairo"
+  },
+  "localidade 89": {
+    "Continente": "Ásia",
+    "País": "Índia",
+    "Capital": "Nova Deli"
+  },
+  "localidade 90": {
+    "Continente": "América do Sul",
+    "País": "Colômbia",
+    "Capital": "Bogotá"
+  },
+  "localidade 91": {
+    "Continente": "Europa",
+    "País": "Alemanha",
+    "Capital": "Berlim"
+  },
+  "localidade 92": {
+    "Continente": "África",
+    "País": "Nigéria",
+    "Capital": "Abuja"
+  },
+  "localidade 93": {
+    "Continente": "África",
+    "País": "Egito",
+    "Capital": "Cairo"
+  },
+  "localidade 94": {
+    "Continente": "Ásia",
+    "País": "Japão",
+    "Capital": "Tóquio"
+  },
+  "localidade 95": {
+    "Continente": "América do Norte",
+    "País": "Estados Unidos",
+    "Capital": "Washington DC"
+  },
+  "localidade 96": {
+    "Continente": "América Central",
+    "País": "México",
+    "Capital": "Cidade do México"
+  },
+  "localidade 97": {
+    "Continente": "África",
+    "País": "Angola",
+    "Capital": "Luanda"
+  },
+  "localidade 98": {
+    "Continente": "América do Sul",
+    "País": "Argentina",
+    "Capital": "Buenos Aires"
+  },
+  "localidade 99": {
+    "Continente": "América Central",
+    "País": "Guatemala",
+    "Capital": "Cidade da Guatemala"
+  },
+  "localidade 100": {
+    "Continente": "Oceania",
+    "País": "Austrália",
+    "Capital": "Camberra"
+  }
+}
