@@ -1,0 +1,71 @@
+estados = ['Colima', 'Saltillo', 'Tlaxcala', 'Acapulco', 'Nayarit', 'Campeche', 
+ 'Sonora', 'Cancún', 'Durango', 'Tijuana', 'Veracruz', 'Yucatán', 'Guerrero', 
+ 'Nuevo León', 'Jalisco', 'Puebla', 'Tabasco', 'Toluca', 'Morelos', 'Tuxtla Gutiérrez',
+ 'Hidalgo', 'Baja California', 'Estado de México', 'Tepic', 'San Luis Potosí', 
+ 'Chihuahua', 'Mazatlán', 'Quintana Roo', 'Querétaro', 'Chiapas', 'Sinaloa', 
+ 'Ciudad de México', 'Coahuila', 'Guanajuato', 'Michoacán', 
+ 'Baja California Sur', 'Oaxaca', 'Baja California']
+
+
+F= [ 1, 13, 2584, 610, 233, 0, 21, 2, 144, 8, 4181, 377, 3, 34, 55, 89, 1, 5]
+
+
+capitales = ['#Ciudad Victo*ria', 'cuerna#vaca', 'Morelia!', 'xalapa', 'Tepic', 'hermos*illo',
+ 'toluca?', 'San? Luis Potosí', '*Mexicali', 'Villahermosa', 'Tuxtla Gutiérrez#',
+ 'Colima', 'la Paz#', 'Guadalajara', 'C*ampeche!', 'Durango', 'Zacatecas',
+ '!Chetumal', 'Ciudad# de México', 'chilpancingo*', 'Chihua#hua', '?Aguascalientes',
+ 'Oaxaca de Juárez*', '?Puebla', 'Quer?étaro', 'Mérida', 'guanajuato',
+ 'pachu*ca', '#Saltillo#', 'Culiacán!', 'Tlaxcala', 'monterrey']
+
+
+
+datos22 = {'Aguascalientes': 87, 'Baja California': 2681, 'Baja California Sur': 89,
+ 'Campeche': 110, 'Coahuila de Zaragoza': 169, 'Colima': 867, 'Chiapas': 499,
+ 'Chihuahua': 2016, 'CDMX': 742, 'Durango': 125, 'Guanajuato': 4256, 'Guerrero': 1378,
+ 'Hidalgo': 380, 'Jalisco': 1845, 'Mexico': 3226, 'Michoacan': 2292, 'Morelos': 1149,
+ 'Nayarit': 186, 'Nuevo Leon': 1391, 'Oaxaca': 740, 'Puebla': 1061, 'Queretaro': 187,
+ 'Quintana Roo': 635, 'San Luis Potosi': 751, 'Sinaloa': 558, 'Sonora': 1723, 'Tabasco': 334, 'Tamaulipas': 467,
+ 'Tlaxcala': 152, 'Veracruz': 641, 'Yucatan': 54, 'Zacatecas': 1432}
+
+
+
+abreviaturas = ['AGS', 'BC', 'BCS', 'CAMP', 'COAH', 'COL', 'CHIS', 'CHIH', 'CDMX',
+    'DGO', 'GTO', 'GRO', 'HGO', 'JAL', 'MEX', 'MICH', 'MOR', 'NAY', 'NL',
+    'OAX', 'PUE', 'QRO', 'Q ROO', 'SLP', 'SIN', 'SON', 'TAB', 'TAMPS',
+    'TLAX', 'VER', 'YUC', 'ZAC']
+
+
+datos_22 = {'Estado': [' Aguascalientes', ' Baja California', ' Baja California Sur', ' Campeche',
+               ' Coahuila de Zaragoza', ' Colima', ' Chiapas', ' Chihuahua', ' CDMX',
+               ' Durango', ' Guanajuato', ' Guerrero', ' Hidalgo', ' Jalisco', ' Mexico',
+               ' Michoacan', ' Morelos', 'Nayarit', ' Nuevo Leon', ' Oaxaca', ' Puebla',
+               ' Queretaro', ' Quintana Roo', ' San Luis Potosi', ' Sinaloa', ' Sonora',
+               ' Tabasco', ' Tamaulipas', ' Tlaxcala', ' Veracruz', ' Yucatan', ' Zacatecas'],
+    
+    'Abreviatura': ['AG', 'BC', 'BS', 'CM', 'CO', 'CL', 'CS', 'CH', 'CX',
+                    'DG', 'GT', 'GR', 'HG', 'JC', 'EM', 'MI', 'MO', 'NAY',
+                    'NL', 'OA', 'PU', 'QT', 'QR', 'SL', 'SI', 'SO', 'TB',
+                    'TM', 'TL', 'VE', 'YU', 'ZA'],
+    
+    'Regiones': ['Noreste', 'Noroeste', 'Noroeste', 'Sureste', 'Noreste',
+                 'Occidente', 'Sureste', 'Noroeste', 'Centro-Sur', 'Noroeste',
+                 'Noreste', 'Centro-Sur', 'Occidente', 'Noroeste', 'Occidente',
+                 'Occidente', 'Centro-Sur', 'Noroeste', 'Noreste', 'Sureste',
+                 'Centro-Sur', 'Noreste', 'Sureste', 'Noreste', 'Noroeste',
+                 'Noroeste', 'Sureste', 'Noreste', 'Centro-Sur', 'Sureste',
+                 'Sureste', 'Noreste'],
+    
+    'Mujeres': [13, 291, 15, 13, 26, 110, 65, 237, 107, 25, 568, 133, 57, 203,
+                490, 241, 109, 16, 150, 114, 123, 26, 62, 62, 37, 142, 42, 53,
+                14, 86, 7, 163],
+    
+    'Hombres': [73, 2279, 74, 95, 143, 755, 432, 1776, 635, 100, 3408, 1226,
+                314, 1639, 2725, 2044, 1040, 169, 1240, 626, 923, 161, 573,
+                687, 515, 1521, 292, 373, 138, 555, 47, 1261],
+    
+    'No_esp': [1, 111, 0, 2, 0, 2, 2, 3, 0, 0, 280, 19, 9, 3, 11, 7, 0, 1, 1, 0,
+               15, 0, 0, 2, 6, 60, 0, 41, 0, 0, 0, 8],
+    
+    'Total': [87, 2681, 89, 110, 169, 867, 499, 2016, 742, 125, 4256, 1378, 380,
+              1845, 3226, 2292, 1149, 186, 1391, 740, 1061, 187, 635, 751, 558,
+              1723, 334, 467, 152, 641, 54, 1432]}
